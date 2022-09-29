@@ -201,7 +201,7 @@ function sendMessage(){
 > </html>
 > ```
 >
-> ![img](file:///C:\Users\游俊豪\Documents\Tencent Files\1571229403\Image\C2C\%}NEV5Q]QU07~075N8TPNZA.png)
+> ![img](弹窗.png)
 >
 > 关闭拦截后，刷新，首先是URL跳转，其次是弹出xss界面。
 
